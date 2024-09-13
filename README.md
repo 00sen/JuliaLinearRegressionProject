@@ -1,3 +1,6 @@
+# SE ENTREGAN LOS REPORTES DE MANERA TARDÍA POR ERROR DE FORMATO
+## Se adjuntan los dos pdf de las competencias, y pdf de reporte del modelo
+
 # Proyecto creación de modelo y uso de framework
 ## Luis Arturo Rendón Iñarritu
 ### A01703572
